@@ -11,9 +11,7 @@ Traditional ticketing systems often suffer from issues like fraud, counterfeitin
 
 - **Elimination of Intermediaries**: By using smart contracts on the blockchain, we eliminate the need for intermediaries, reducing fees and enhancing the direct relationship between event organizers and attendees.
 
-- **Ownership and Transfer**: Attendees truly own their NFT tickets, allowing them to easily transfer, sell, or gift their tickets to others within the platform's framework.
-
-- **Customization**: Event organizers can create unique NFT tickets with customizable attributes, such as limited edition designs, unlockable content, and more, adding extra value to the ticketing experience.
+- **Customization**: Event organizers can create unique NFT tickets with customizable attributes, such as limited edition designs
 
 
 ## How the product works
